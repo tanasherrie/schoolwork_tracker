@@ -1,0 +1,101 @@
+html, body {
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    overflow-x:hidden;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.container {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+#registerBtn{
+    margin-left:10vh;
+    margin-top:3%;
+    margin-bottom:2%;
+    padding:2% 4% 2% 4%;
+    font-size:25px;
+}
+
+.modal-lg {
+    width: 1000px;
+}
+
+#loginBtn{
+    margin-top:2%;
+    margin-left:11%;
+    padding:2% 4% 2% 4%;
+    font-size:30px;
+}
+
+#forgot{
+    margin-top:5vh;
+    margin-left:35vh;
+}
+
+.header{
+    margin-bottom:3%;
+    margin-top:1%;
+}
+
+.title{
+    margin-top:20%;
+}
+
+.row{
+    margin-left:2%;
+}
+
+.features{
+    background-color: #BDBA57  ;
+    width:202vh;
+    margin-left:-27vh;
+    background-position: center;
+}
+
+#features{
+    margin-left:-7%;
+}
+
+.form-check{
+    margin-left:9%;
+}
+            
+.forgotpass{
+    margin-left:3%;
+}
+                
